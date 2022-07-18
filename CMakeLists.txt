@@ -68,7 +68,6 @@ add_subdirectory(imgui-1.79)
 add_subdirectory(util)
 
 # build sub-projects
-add_subdirectory(demo)
 add_subdirectory(projects/skeleton_p4)
 
 foreach(f 
