@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libd13_shadowmap_comm.a  CMakeFiles/d13_shadowmap_comm.dir/comm.cpp.o CMakeFiles/d13_shadowmap_comm.dir/geometry_triangle.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libd13_shadowmap_comm.a

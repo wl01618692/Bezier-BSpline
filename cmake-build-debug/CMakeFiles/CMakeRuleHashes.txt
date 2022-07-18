@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+cdc50248bc39063cebab1460f323e89c projects/skeleton_p4/CMakeFiles/_embeded_shaders_run_p4_shaders_h

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libutil-core-4.1.a  CMakeFiles/util-core-4.1.dir/util.cpp.o CMakeFiles/util-core-4.1.dir/arcball_camera.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libutil-core-4.1.a

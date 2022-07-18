@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/chiayuanchang/Desktop/p4
+-- Using Cocoa for window creation
+CMake Error at CMakeLists.txt:71 (add_subdirectory):
+  add_subdirectory given source "demo" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/chiayuanchang/Desktop/p4/cmake-build-debug/CMakeFiles/CMakeOutput.log".
