@@ -1,10 +1,7 @@
-//===========================================================================//
-//                                                                           //
-// Copyright(c) ECS 175 (2020)                                               //
-// University of California, Davis                                           //
-// MIT Licensed                                                              //
-//                                                                           //
-//===========================================================================//
+//
+// Created by ChiaYuan Chang on 11/30/20.
+//
+
 
 // Include standard headers
 #include "gui.h"
