@@ -2,9 +2,9 @@
 This project supports the implementation of a 2D Bezier and B-spline curve editor. The project first draw curves from the input file, and the user can press `G` to interact with the GUI and curve editor will display. The user can add, insert, delete, and modify the control points in any curve, and can specify the number of points (resolution) to be drawn and the order (k) of any curve through the GUI. 
 
 The bezier curve and bspline curves will be drawn in red. However, the control points for bezier curve is green, and the control points for b-spline is white. In the following image, two bezier and two bspline curves are drawn along with their control points connected.
-![Alt text](./both_2_2_window.png?raw=true)
-![Alt text](./gui.png?raw=true)
-![Alt text](./gui_2.png?raw=true)
+![Alt text](https://github.com/wl01618692/Bezier-BSpline/edit/master/projects/skeleton_p4/submission/both_2_2_window.png?raw=true)
+![Alt text](https://github.com/wl01618692/Bezier-BSpline/edit/master/projects/skeleton_p4/submission/gui.png?raw=true)
+![Alt text](https://github.com/wl01618692/Bezier-BSpline/edit/master/projects/skeleton_p4/submission/gui_2.png?raw=true)
 
 All the GUI display function can be found at `gui.cpp` and `gui.h`, and where as the computation function can be found at `helper.cpp` and `helper.h` file.
 
